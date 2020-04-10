@@ -1,2 +1,2 @@
 # armchairs
-Резиновый лендинг, с использованием HTML SCSS Jquery, JS
+Резиновый лендинг, с использованием HTML SCSS Jquery JS
